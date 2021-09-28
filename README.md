@@ -29,4 +29,4 @@ Ultimate goal:
 For adding yet another "Buzz-Word" no existing code should need to change!
 (Except special places like Factories or Construction/Wiring-Methods) 
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/modernSE/kata-fizzbuzz-java)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AlexanderSchackmann/kata-fizzbuzz-java)
